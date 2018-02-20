@@ -1,0 +1,16 @@
+/*
+ * John Perry Tribute Page style
+ * https://www.freecodecamp.org/challenges/build-a-tribute-page
+ * https://codepen.io/n3wborn/pen/bLLEeE
+ */
+
+body {
+  margin-top: 60px;
+}
+
+
+
+.thumbnail {
+  border-color: transparent;
+}
+
